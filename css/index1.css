@@ -1,0 +1,51 @@
+body{background: antiquewhite}
+
+article{padding:10px;width:760px;margin:0 auto;background: white;}
+
+header{width:760px;height:100px}
+header p{font-size: 40px;font-weight: bold;letter-spacing:40px;text-align: center;background:url("../images/ab.jpg")top;-webkit-background-clip: text;-webkit-text-fill-color:transparent}
+
+.dly{position:relative;padding:0 0 0 60px;width:680px}
+.dly p{padding:3px 0 3px 10px;font-size: 20px;color: white;font-weight: bold;background: url("../images/geduantiao.jpg") no-repeat;border-top:dashed 1px #2895cd}
+.dly img{position:absolute;top:10px;right:20px;width:150px;height:200px;border-radius:50%;box-shadow:3px 3px 5px #2895cd }
+
+.dlx{padding:15px 0 0 60px;width:680px}
+.dlx p{padding:3px 0 3px 10px;font-size: 20px;color: white;font-weight: bold;background: url("../images/geduantiao.jpg") no-repeat;border-top:dashed 1px #000000  }
+.left{float: left}
+.right{float: left}
+dl{width:270px;height:20px;font-size: 15px;padding:10px 0 0 0;font-weight: bold}
+
+.dle{position:relative;padding:170px 0 0 60px;width:680px}
+.dle p{padding:3px 0 3px 10px;font-size: 20px;color: white;font-weight: bold;background: url("../images/geduantiao.jpg") no-repeat;;border-top:dashed 1px #2895cd}
+.dle h2{font-size: 15px;padding: 10px 0 10px 0}
+
+.dls{position:relative;padding: 30px 0 0 60px;width:680px}
+.dls p{padding:3px 0 3px 10px;font-size: 20px;color: white;font-weight: bold;background: url("../images/geduantiao.jpg") no-repeat;border-top:dashed 1px #2895cd}
+.dls h2{font-size: 15px;padding: 10px 0 10px 0;line-height: 30px}
+
+.dlw{position:relative;padding: 30px 0 0 60px;width:680px}
+.dlw p{padding:3px 0 3px 10px;font-size: 20px;color: white;font-weight: bold;background: url("../images/geduantiao.jpg") no-repeat;border-top:dashed 1px #2895cd}
+.dlw h1{font-size: 15px;padding: 10px 0 10px 0;line-height: 30px}
+
+.dlo{position:relative;padding: 30px 0 0 60px;width:680px}
+.dlo p{padding:3px 0 3px 10px;font-size: 20px;color: white;font-weight: bold;background: url("../images/geduantiao.jpg") no-repeat;border-top:dashed 1px #2895cd}
+.dlo h1{font-size: 15px;padding: 10px 0 10px 0;line-height: 30px}
+
+@media all and (max-width:768px){
+    article{width:100%;box-sizing: border-box}
+    header{width: 100%}
+    .dly{width:100%;padding: 0} .dly p{width:30%}
+    .dly img{position:absolute;top:20px;right:0px;width:100px;height:140px}
+    .dlx{width:100%;padding: 0}.dlx p{width:30%}
+    .dle{width:100%;padding:150px 0 0 0}.dle p{width:30%}
+    .dls{width:100%;padding: 0}.dls p{width:30%}
+    .dlw{width:100%;padding: 0}.dlw p{width:30%}
+    .dlo{width:100%;padding: 0}.dlo p{width:30%}
+                               dl{width:100%}
+
+}
+https://github.com/
+
+
+
+
